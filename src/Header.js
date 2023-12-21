@@ -8,7 +8,7 @@ const Header_container = styled.div`
   height: 5vw;
   background-color: black;
 
-  display: flex;
+  // display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
